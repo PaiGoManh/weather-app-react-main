@@ -1,0 +1,63 @@
+.app {
+    font-family: Arial, sans-serif;
+  }
+  
+  .search {
+    margin: 20px;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  .top {
+    margin: 20px 0;
+  }
+  
+  .location {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .temp {
+    font-size: 48px;
+  }
+  
+  .description {
+    font-size: 24px;
+    color: gray;
+  }
+  
+  .bottom {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .forecast {
+    margin: 20px;
+  }
+  
+  .forecast-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .forecast-table th, .forecast-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .forecast-table th {
+    background-color: #f2f2f2;
+    text-align: center;
+  }
+  
+  .forecast-table td {
+    text-align: center;
+  }
+  
